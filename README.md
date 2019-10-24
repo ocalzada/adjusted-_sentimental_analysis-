@@ -1,7 +1,7 @@
 # Data Science - Yelp Feelers
 This is the Data Science portion for an Application that uses Machine Learning to build a Yelp Adjusted Ratings App based on a User's  text review which is then put through a rigorous Sentiment Analysis.
 
-You can visit the application here: [Yelp Feelers](https://yelpfeelershomehenry.netlify.com/)
+You can visit the application here: [Yelp Feelers](https://yelp-sentiment-analysis-linear.herokuapp.com/)
 
 ## Flowchart
 ![Alt text](https://github.com/JoshFowlkes/Yelp-Feelers-DS/blob/master/Data/FlowChart.png) 
